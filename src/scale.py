@@ -113,6 +113,6 @@ def generate_complete_cyber_watch_svg_string(
 # 🚀 動作検証：半径140px、中心(200, 200)で完全版全体のXML文字列を出力
 print(
     generate_complete_cyber_watch_svg_string(
-        radius=140, cx=200, cy=200, use_rainbow=False
+        radius=210, cx=220, cy=220, use_rainbow=False
     )
 )

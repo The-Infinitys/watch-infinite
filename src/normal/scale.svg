@@ -1,306 +1,306 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
   <defs>
-    <linearGradient id="grad_0" x1="192.5" y1="60.0" x2="207.5" y2="60.0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_0" x1="212.5" y1="10.0" x2="227.5" y2="10.0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff0000" />
       <stop offset="100%" stop-color="#ff1900" />
     </linearGradient>
-    <linearGradient id="grad_1" x1="207.17507064220945" y1="59.982971173934345" x2="222.09289907273353" y2="61.55089812294915" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_1" x1="234.4920630709452" y1="10.36643849815522" x2="249.40989150146927" y2="11.934365447170022" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff1900" />
       <stop offset="100%" stop-color="#ff3200" />
     </linearGradient>
-    <linearGradient id="grad_2" x1="221.77152970898277" y1="61.49999821613404" x2="236.44374371998987" y2="64.61867357840043" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_2" x1="256.32534806622596" y1="13.029666164767638" x2="270.99756207723306" y2="16.14834152703403" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff3200" />
       <stop offset="100%" stop-color="#ff4c00" />
     </linearGradient>
-    <linearGradient id="grad_3" x1="236.129455340279" y1="64.53446026086641" x2="250.39530308470628" y2="69.16971517649063" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_3" x1="277.7606449465253" y1="17.96050412020566" x2="292.02649269095264" y2="22.595759035829868" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff4c00" />
       <stop offset="100%" stop-color="#ff6600" />
     </linearGradient>
-    <linearGradient id="grad_4" x1="250.09153909829254" y1="69.05311110696738" x2="263.79472096293154" y2="75.15416075310438" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_4" x1="298.56310411359857" y1="25.104929071985325" x2="312.26628597823753" y2="31.205978718122324" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff6600" />
       <stop offset="100%" stop-color="#ff7f00" />
     </linearGradient>
-    <linearGradient id="grad_5" x1="263.50480947161674" y1="75.0064434701786" x2="276.49519052838326" y2="82.5064434701786" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_5" x1="318.50480947161674" y1="34.38466520526791" x2="331.49519052838326" y2="41.88466520526791" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff7f00" />
       <stop offset="100%" stop-color="#ff9900" />
     </linearGradient>
-    <linearGradient id="grad_6" x1="276.2223078631342" y1="82.3292313953138" x2="288.35756277875834" y2="91.14601017970091" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_6" x1="337.36727552360725" y1="45.69804178906748" x2="349.5025304392314" y2="54.51482057345458" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff9900" />
       <stop offset="100%" stop-color="#ffb200" />
     </linearGradient>
-    <linearGradient id="grad_7" x1="288.1046986991597" y1="90.94124488547337" x2="299.2518710813206" y2="100.97820398085625" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_7" x1="354.9438411442798" y1="58.92110710205578" x2="366.0910135264407" y2="68.95806619743865" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffb200" />
       <stop offset="100%" stop-color="#ffcc00" />
     </linearGradient>
-    <linearGradient id="grad_8" x1="299.0217960191438" y1="100.7481289186794" x2="309.0587551145266" y2="111.8953013008403" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_8" x1="371.0419338025614" y1="73.90898647355932" x2="381.07889289794423" y2="85.05615885572023" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffcc00" />
       <stop offset="100%" stop-color="#ffe500" />
     </linearGradient>
-    <linearGradient id="grad_9" x1="308.8539898202991" y1="111.64243722124165" x2="317.6707686046862" y2="123.77769213686587" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_9" x1="385.4851794265454" y1="90.49746956076854" x2="394.3019582109325" y2="102.63272447639275" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffe500" />
       <stop offset="100%" stop-color="#ffff00" />
     </linearGradient>
-    <linearGradient id="grad_10" x1="317.49355652982143" y1="123.50480947161671" x2="324.99355652982143" y2="136.4951905283833" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_10" x1="398.1153347947321" y1="108.50480947161672" x2="405.6153347947321" y2="121.4951905283833" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffff00" />
       <stop offset="100%" stop-color="#e5ff00" />
     </linearGradient>
-    <linearGradient id="grad_11" x1="324.84583924689565" y1="136.20527903706846" x2="330.9468888930326" y2="149.90846090170749" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_11" x1="408.7940212818777" y1="127.73371402176244" x2="414.89507092801466" y2="141.43689588640146" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#e5ff00" />
       <stop offset="100%" stop-color="#cbff00" />
     </linearGradient>
-    <linearGradient id="grad_12" x1="330.83028482350943" y1="149.60469691529372" x2="335.4655397391336" y2="163.870544659721" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_12" x1="417.4042409641701" y1="147.9735073090474" x2="422.0394958797943" y2="162.23935505347467" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#cbff00" />
       <stop offset="100%" stop-color="#b2ff00" />
     </linearGradient>
-    <linearGradient id="grad_13" x1="335.3813264215996" y1="163.55625628001013" x2="338.50000178386597" y2="178.22847029101723" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_13" x1="423.851658472966" y1="169.002437922767" x2="426.97033383523234" y2="183.6746519337741" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#b2ff00" />
       <stop offset="100%" stop-color="#99ff00" />
     </linearGradient>
-    <linearGradient id="grad_14" x1="338.44910187705085" y1="177.90710092726647" x2="340.01702882606565" y2="192.82492935779055" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_14" x1="428.06563455283" y1="190.59010849853073" x2="429.6335615018448" y2="205.5079369290548" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#99ff00" />
       <stop offset="100%" stop-color="#7fff00" />
     </linearGradient>
-    <linearGradient id="grad_15" x1="340.0" y1="192.5" x2="340.0" y2="207.5" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_15" x1="430.0" y1="212.5" x2="430.0" y2="227.5" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#7fff00" />
       <stop offset="100%" stop-color="#65ff00" />
     </linearGradient>
-    <linearGradient id="grad_16" x1="340.01702882606565" y1="207.17507064220945" x2="338.44910187705085" y2="222.09289907273353" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_16" x1="429.6335615018448" y1="234.4920630709452" x2="428.06563455283" y2="249.40989150146927" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#65ff00" />
       <stop offset="100%" stop-color="#4cff00" />
     </linearGradient>
-    <linearGradient id="grad_17" x1="338.50000178386597" y1="221.77152970898277" x2="335.3813264215996" y2="236.44374371998987" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_17" x1="426.97033383523234" y1="256.3253480662259" x2="423.851658472966" y2="270.997562077233" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#4cff00" />
       <stop offset="100%" stop-color="#33ff00" />
     </linearGradient>
-    <linearGradient id="grad_18" x1="335.4655397391336" y1="236.129455340279" x2="330.83028482350943" y2="250.39530308470628" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_18" x1="422.0394958797943" y1="277.7606449465253" x2="417.4042409641701" y2="292.02649269095264" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#33ff00" />
       <stop offset="100%" stop-color="#19ff00" />
     </linearGradient>
-    <linearGradient id="grad_19" x1="330.9468888930326" y1="250.09153909829254" x2="324.84583924689565" y2="263.79472096293154" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_19" x1="414.89507092801466" y1="298.56310411359857" x2="408.7940212818777" y2="312.26628597823753" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#19ff00" />
       <stop offset="100%" stop-color="#00ff00" />
     </linearGradient>
-    <linearGradient id="grad_20" x1="324.99355652982143" y1="263.5048094716167" x2="317.49355652982143" y2="276.4951905283833" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_20" x1="405.6153347947321" y1="318.5048094716167" x2="398.1153347947321" y2="331.4951905283833" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff00" />
       <stop offset="100%" stop-color="#00ff19" />
     </linearGradient>
-    <linearGradient id="grad_21" x1="317.6707686046862" y1="276.2223078631342" x2="308.8539898202991" y2="288.35756277875834" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_21" x1="394.3019582109325" y1="337.36727552360725" x2="385.4851794265454" y2="349.5025304392314" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff19" />
       <stop offset="100%" stop-color="#00ff32" />
     </linearGradient>
-    <linearGradient id="grad_22" x1="309.0587551145266" y1="288.1046986991597" x2="299.0217960191438" y2="299.2518710813206" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_22" x1="381.07889289794423" y1="354.9438411442798" x2="371.0419338025614" y2="366.0910135264407" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff32" />
       <stop offset="100%" stop-color="#00ff4c" />
     </linearGradient>
-    <linearGradient id="grad_23" x1="299.2518710813206" y1="299.0217960191438" x2="288.1046986991597" y2="309.0587551145266" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_23" x1="366.0910135264407" y1="371.0419338025614" x2="354.9438411442798" y2="381.07889289794423" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff4c" />
       <stop offset="100%" stop-color="#00ff66" />
     </linearGradient>
-    <linearGradient id="grad_24" x1="288.35756277875834" y1="308.8539898202991" x2="276.2223078631342" y2="317.6707686046862" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_24" x1="349.5025304392314" y1="385.4851794265454" x2="337.36727552360725" y2="394.3019582109325" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff66" />
       <stop offset="100%" stop-color="#00ff7f" />
     </linearGradient>
-    <linearGradient id="grad_25" x1="276.49519052838326" y1="317.4935565298214" x2="263.50480947161674" y2="324.9935565298214" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_25" x1="331.49519052838326" y1="398.1153347947321" x2="318.50480947161674" y2="405.6153347947321" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff7f" />
       <stop offset="100%" stop-color="#00ff99" />
     </linearGradient>
-    <linearGradient id="grad_26" x1="263.79472096293154" y1="324.84583924689565" x2="250.09153909829254" y2="330.9468888930326" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_26" x1="312.26628597823753" y1="408.7940212818777" x2="298.56310411359857" y2="414.89507092801466" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ff99" />
       <stop offset="100%" stop-color="#00ffb2" />
     </linearGradient>
-    <linearGradient id="grad_27" x1="250.39530308470628" y1="330.83028482350943" x2="236.129455340279" y2="335.4655397391336" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_27" x1="292.02649269095264" y1="417.4042409641701" x2="277.7606449465253" y2="422.0394958797943" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ffb2" />
       <stop offset="100%" stop-color="#00ffcb" />
     </linearGradient>
-    <linearGradient id="grad_28" x1="236.44374371998987" y1="335.38132642159957" x2="221.77152970898277" y2="338.5000017838659" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_28" x1="270.99756207723306" y1="423.851658472966" x2="256.32534806622596" y2="426.97033383523234" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ffcb" />
       <stop offset="100%" stop-color="#00ffe5" />
     </linearGradient>
-    <linearGradient id="grad_29" x1="222.09289907273353" y1="338.44910187705085" x2="207.17507064220945" y2="340.01702882606565" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_29" x1="249.40989150146927" y1="428.06563455283" x2="234.4920630709452" y2="429.6335615018448" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ffe5" />
       <stop offset="100%" stop-color="#00ffff" />
     </linearGradient>
-    <linearGradient id="grad_30" x1="207.5" y1="340.0" x2="192.5" y2="340.0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_30" x1="227.5" y1="430.0" x2="212.5" y2="430.0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00ffff" />
       <stop offset="100%" stop-color="#00e5ff" />
     </linearGradient>
-    <linearGradient id="grad_31" x1="192.82492935779055" y1="340.01702882606565" x2="177.90710092726647" y2="338.44910187705085" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_31" x1="205.50793692905478" y1="429.6335615018448" x2="190.5901084985307" y2="428.06563455283" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00e5ff" />
       <stop offset="100%" stop-color="#00cbff" />
     </linearGradient>
-    <linearGradient id="grad_32" x1="178.22847029101723" y1="338.50000178386597" x2="163.55625628001013" y2="335.3813264215996" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_32" x1="183.6746519337741" y1="426.97033383523234" x2="169.002437922767" y2="423.851658472966" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00cbff" />
       <stop offset="100%" stop-color="#00b2ff" />
     </linearGradient>
-    <linearGradient id="grad_33" x1="163.87054465972102" y1="335.4655397391336" x2="149.60469691529374" y2="330.83028482350943" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_33" x1="162.2393550534747" y1="422.03949587979434" x2="147.97350730904742" y2="417.4042409641702" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#00b2ff" />
       <stop offset="100%" stop-color="#0099ff" />
     </linearGradient>
-    <linearGradient id="grad_34" x1="149.90846090170746" y1="330.9468888930326" x2="136.20527903706844" y2="324.84583924689565" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_34" x1="141.43689588640146" y1="414.89507092801466" x2="127.73371402176244" y2="408.7940212818777" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0099ff" />
       <stop offset="100%" stop-color="#007fff" />
     </linearGradient>
-    <linearGradient id="grad_35" x1="136.49519052838332" y1="324.99355652982143" x2="123.50480947161674" y2="317.49355652982143" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_35" x1="121.49519052838333" y1="405.6153347947321" x2="108.50480947161675" y2="398.1153347947321" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#007fff" />
       <stop offset="100%" stop-color="#0066ff" />
     </linearGradient>
-    <linearGradient id="grad_36" x1="123.77769213686588" y1="317.6707686046862" x2="111.64243722124166" y2="308.8539898202991" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_36" x1="102.63272447639277" y1="394.3019582109325" x2="90.49746956076855" y2="385.4851794265454" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0066ff" />
       <stop offset="100%" stop-color="#004cff" />
     </linearGradient>
-    <linearGradient id="grad_37" x1="111.8953013008403" y1="309.0587551145266" x2="100.7481289186794" y2="299.0217960191438" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_37" x1="85.05615885572023" y1="381.07889289794423" x2="73.90898647355932" y2="371.0419338025614" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#004cff" />
       <stop offset="100%" stop-color="#0033ff" />
     </linearGradient>
-    <linearGradient id="grad_38" x1="100.97820398085626" y1="299.2518710813206" x2="90.94124488547338" y2="288.1046986991597" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_38" x1="68.95806619743868" y1="366.0910135264407" x2="58.92110710205581" y2="354.9438411442798" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0033ff" />
       <stop offset="100%" stop-color="#0019ff" />
     </linearGradient>
-    <linearGradient id="grad_39" x1="91.14601017970092" y1="288.35756277875834" x2="82.32923139531381" y2="276.2223078631342" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_39" x1="54.51482057345461" y1="349.50253043923146" x2="45.69804178906751" y2="337.3672755236073" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0019ff" />
       <stop offset="100%" stop-color="#0000ff" />
     </linearGradient>
-    <linearGradient id="grad_40" x1="82.50644347017858" y1="276.4951905283833" x2="75.00644347017858" y2="263.5048094716167" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_40" x1="41.88466520526788" y1="331.4951905283833" x2="34.38466520526788" y2="318.5048094716167" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0000ff" />
       <stop offset="100%" stop-color="#1900ff" />
     </linearGradient>
-    <linearGradient id="grad_41" x1="75.15416075310439" y1="263.79472096293154" x2="69.05311110696739" y2="250.09153909829254" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_41" x1="31.205978718122356" y1="312.2662859782376" x2="25.10492907198535" y2="298.5631041135986" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#1900ff" />
       <stop offset="100%" stop-color="#3200ff" />
     </linearGradient>
-    <linearGradient id="grad_42" x1="69.16971517649063" y1="250.39530308470628" x2="64.53446026086641" y2="236.129455340279" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_42" x1="22.59575903582987" y1="292.02649269095264" x2="17.960504120205655" y2="277.7606449465253" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#3200ff" />
       <stop offset="100%" stop-color="#4c00ff" />
     </linearGradient>
-    <linearGradient id="grad_43" x1="64.6186735784004" y1="236.44374371998987" x2="61.49999821613401" y2="221.77152970898277" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_43" x1="16.148341527034" y1="270.997562077233" x2="13.02966616476761" y2="256.3253480662259" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#4c00ff" />
       <stop offset="100%" stop-color="#6500ff" />
     </linearGradient>
-    <linearGradient id="grad_44" x1="61.55089812294915" y1="222.09289907273356" x2="59.982971173934345" y2="207.17507064220948" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_44" x1="11.934365447170023" y1="249.40989150146933" x2="10.366438498155219" y2="234.49206307094525" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#6500ff" />
       <stop offset="100%" stop-color="#7f00ff" />
     </linearGradient>
-    <linearGradient id="grad_45" x1="60.0" y1="207.50000000000003" x2="60.0" y2="192.50000000000003" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_45" x1="10.000000000000002" y1="227.50000000000003" x2="9.999999999999998" y2="212.50000000000003" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#7f00ff" />
       <stop offset="100%" stop-color="#9900ff" />
     </linearGradient>
-    <linearGradient id="grad_46" x1="59.982971173934345" y1="192.82492935779055" x2="61.55089812294915" y2="177.90710092726647" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_46" x1="10.36643849815522" y1="205.5079369290548" x2="11.934365447170022" y2="190.59010849853073" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#9900ff" />
       <stop offset="100%" stop-color="#b200ff" />
     </linearGradient>
-    <linearGradient id="grad_47" x1="61.49999821613404" y1="178.22847029101723" x2="64.61867357840043" y2="163.55625628001013" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_47" x1="13.029666164767637" y1="183.67465193377404" x2="16.14834152703403" y2="169.00243792276694" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#b200ff" />
       <stop offset="100%" stop-color="#cc00ff" />
     </linearGradient>
-    <linearGradient id="grad_48" x1="64.53446026086638" y1="163.87054465972102" x2="69.1697151764906" y2="149.60469691529374" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_48" x1="17.96050412020563" y1="162.23935505347475" x2="22.59575903582984" y2="147.97350730904742" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#cc00ff" />
       <stop offset="100%" stop-color="#e500ff" />
     </linearGradient>
-    <linearGradient id="grad_49" x1="69.05311110696738" y1="149.90846090170749" x2="75.15416075310438" y2="136.20527903706846" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_49" x1="25.104929071985325" y1="141.43689588640146" x2="31.205978718122324" y2="127.73371402176244" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#e500ff" />
       <stop offset="100%" stop-color="#ff00ff" />
     </linearGradient>
-    <linearGradient id="grad_50" x1="75.0064434701786" y1="136.4951905283833" x2="82.5064434701786" y2="123.50480947161671" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_50" x1="34.38466520526791" y1="121.49519052838326" x2="41.88466520526791" y2="108.50480947161668" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff00ff" />
       <stop offset="100%" stop-color="#ff00e5" />
     </linearGradient>
-    <linearGradient id="grad_51" x1="82.32923139531381" y1="123.77769213686588" x2="91.1460101797009" y2="111.64243722124166" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_51" x1="45.69804178906748" y1="102.63272447639277" x2="54.51482057345458" y2="90.49746956076855" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff00e5" />
       <stop offset="100%" stop-color="#ff00cb" />
     </linearGradient>
-    <linearGradient id="grad_52" x1="90.94124488547337" y1="111.8953013008403" x2="100.97820398085625" y2="100.7481289186794" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_52" x1="58.92110710205578" y1="85.05615885572023" x2="68.95806619743865" y2="73.90898647355932" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff00cb" />
       <stop offset="100%" stop-color="#ff00b2" />
     </linearGradient>
-    <linearGradient id="grad_53" x1="100.74812891867941" y1="100.97820398085624" x2="111.89530130084032" y2="90.94124488547335" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_53" x1="73.90898647355935" y1="68.95806619743863" x2="85.05615885572026" y2="58.92110710205575" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff00b2" />
       <stop offset="100%" stop-color="#ff0098" />
     </linearGradient>
-    <linearGradient id="grad_54" x1="111.64243722124164" y1="91.14601017970092" x2="123.77769213686585" y2="82.32923139531381" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_54" x1="90.49746956076851" y1="54.51482057345461" x2="102.63272447639272" y2="45.69804178906751" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff0098" />
       <stop offset="100%" stop-color="#ff007f" />
     </linearGradient>
-    <linearGradient id="grad_55" x1="123.50480947161665" y1="82.50644347017861" x2="136.49519052838323" y2="75.00644347017861" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_55" x1="108.50480947161661" y1="41.88466520526791" x2="121.49519052838319" y2="34.38466520526791" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff007f" />
       <stop offset="100%" stop-color="#ff0066" />
     </linearGradient>
-    <linearGradient id="grad_56" x1="136.2052790370685" y1="75.15416075310436" x2="149.9084609017075" y2="69.05311110696736" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_56" x1="127.73371402176247" y1="31.205978718122296" x2="141.4368958864015" y2="25.104929071985296" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff0066" />
       <stop offset="100%" stop-color="#ff004c" />
     </linearGradient>
-    <linearGradient id="grad_57" x1="149.60469691529372" y1="69.16971517649063" x2="163.870544659721" y2="64.53446026086641" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_57" x1="147.9735073090474" y1="22.59575903582987" x2="162.23935505347467" y2="17.960504120205655" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff004c" />
       <stop offset="100%" stop-color="#ff0033" />
     </linearGradient>
-    <linearGradient id="grad_58" x1="163.55625628001007" y1="64.61867357840043" x2="178.22847029101717" y2="61.49999821613403" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_58" x1="169.0024379227669" y1="16.14834152703403" x2="183.674651933774" y2="13.029666164767635" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff0033" />
       <stop offset="100%" stop-color="#ff0019" />
     </linearGradient>
-    <linearGradient id="grad_59" x1="177.9071009272665" y1="61.55089812294912" x2="192.82492935779058" y2="59.98297117393432" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad_59" x1="190.59010849853075" y1="11.934365447169993" x2="205.50793692905484" y2="10.366438498155192" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ff0019" />
       <stop offset="100%" stop-color="#ff0000" />
     </linearGradient>
   </defs>
   <g id='clock-cyber-indices'>
-    <path d='M 200 56 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 200 59 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(0, 200, 200)' fill='url(#grad_0)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(6, 200, 200)' fill='url(#grad_1)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(12, 200, 200)' fill='url(#grad_2)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(18, 200, 200)' fill='url(#grad_3)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(24, 200, 200)' fill='url(#grad_4)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(30, 200, 200)' fill='url(#grad_5)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(36, 200, 200)' fill='url(#grad_6)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(42, 200, 200)' fill='url(#grad_7)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(48, 200, 200)' fill='url(#grad_8)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(54, 200, 200)' fill='url(#grad_9)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(60, 200, 200)' fill='url(#grad_10)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(66, 200, 200)' fill='url(#grad_11)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(72, 200, 200)' fill='url(#grad_12)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(78, 200, 200)' fill='url(#grad_13)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(84, 200, 200)' fill='url(#grad_14)' opacity='0.6' />
-    <path d='M 200 56 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 200 59 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(90, 200, 200)' fill='url(#grad_15)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(96, 200, 200)' fill='url(#grad_16)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(102, 200, 200)' fill='url(#grad_17)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(108, 200, 200)' fill='url(#grad_18)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(114, 200, 200)' fill='url(#grad_19)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(120, 200, 200)' fill='url(#grad_20)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(126, 200, 200)' fill='url(#grad_21)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(132, 200, 200)' fill='url(#grad_22)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(138, 200, 200)' fill='url(#grad_23)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(144, 200, 200)' fill='url(#grad_24)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(150, 200, 200)' fill='url(#grad_25)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(156, 200, 200)' fill='url(#grad_26)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(162, 200, 200)' fill='url(#grad_27)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(168, 200, 200)' fill='url(#grad_28)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(174, 200, 200)' fill='url(#grad_29)' opacity='0.6' />
-    <path d='M 200 56 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 200 59 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(180, 200, 200)' fill='url(#grad_30)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(186, 200, 200)' fill='url(#grad_31)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(192, 200, 200)' fill='url(#grad_32)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(198, 200, 200)' fill='url(#grad_33)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(204, 200, 200)' fill='url(#grad_34)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(210, 200, 200)' fill='url(#grad_35)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(216, 200, 200)' fill='url(#grad_36)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(222, 200, 200)' fill='url(#grad_37)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(228, 200, 200)' fill='url(#grad_38)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(234, 200, 200)' fill='url(#grad_39)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(240, 200, 200)' fill='url(#grad_40)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(246, 200, 200)' fill='url(#grad_41)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(252, 200, 200)' fill='url(#grad_42)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(258, 200, 200)' fill='url(#grad_43)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(264, 200, 200)' fill='url(#grad_44)' opacity='0.6' />
-    <path d='M 200 56 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 200 59 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(270, 200, 200)' fill='url(#grad_45)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(276, 200, 200)' fill='url(#grad_46)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(282, 200, 200)' fill='url(#grad_47)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(288, 200, 200)' fill='url(#grad_48)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(294, 200, 200)' fill='url(#grad_49)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(300, 200, 200)' fill='url(#grad_50)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(306, 200, 200)' fill='url(#grad_51)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(312, 200, 200)' fill='url(#grad_52)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(318, 200, 200)' fill='url(#grad_53)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(324, 200, 200)' fill='url(#grad_54)' opacity='0.6' />
-    <path d='M 200 54 l 5 6 l -5 12 l -5 -12 z M 200 56 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(330, 200, 200)' fill='url(#grad_55)' fill-rule='evenodd' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(336, 200, 200)' fill='url(#grad_56)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(342, 200, 200)' fill='url(#grad_57)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(348, 200, 200)' fill='url(#grad_58)' opacity='0.6' />
-    <path d='M 200 56 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(354, 200, 200)' fill='url(#grad_59)' opacity='0.6' />
+    <path d='M 220 6 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 220 9 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(0, 220, 220)' fill='url(#grad_0)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(6, 220, 220)' fill='url(#grad_1)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(12, 220, 220)' fill='url(#grad_2)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(18, 220, 220)' fill='url(#grad_3)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(24, 220, 220)' fill='url(#grad_4)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(30, 220, 220)' fill='url(#grad_5)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(36, 220, 220)' fill='url(#grad_6)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(42, 220, 220)' fill='url(#grad_7)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(48, 220, 220)' fill='url(#grad_8)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(54, 220, 220)' fill='url(#grad_9)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(60, 220, 220)' fill='url(#grad_10)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(66, 220, 220)' fill='url(#grad_11)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(72, 220, 220)' fill='url(#grad_12)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(78, 220, 220)' fill='url(#grad_13)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(84, 220, 220)' fill='url(#grad_14)' opacity='0.6' />
+    <path d='M 220 6 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 220 9 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(90, 220, 220)' fill='url(#grad_15)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(96, 220, 220)' fill='url(#grad_16)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(102, 220, 220)' fill='url(#grad_17)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(108, 220, 220)' fill='url(#grad_18)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(114, 220, 220)' fill='url(#grad_19)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(120, 220, 220)' fill='url(#grad_20)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(126, 220, 220)' fill='url(#grad_21)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(132, 220, 220)' fill='url(#grad_22)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(138, 220, 220)' fill='url(#grad_23)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(144, 220, 220)' fill='url(#grad_24)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(150, 220, 220)' fill='url(#grad_25)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(156, 220, 220)' fill='url(#grad_26)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(162, 220, 220)' fill='url(#grad_27)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(168, 220, 220)' fill='url(#grad_28)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(174, 220, 220)' fill='url(#grad_29)' opacity='0.6' />
+    <path d='M 220 6 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 220 9 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(180, 220, 220)' fill='url(#grad_30)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(186, 220, 220)' fill='url(#grad_31)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(192, 220, 220)' fill='url(#grad_32)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(198, 220, 220)' fill='url(#grad_33)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(204, 220, 220)' fill='url(#grad_34)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(210, 220, 220)' fill='url(#grad_35)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(216, 220, 220)' fill='url(#grad_36)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(222, 220, 220)' fill='url(#grad_37)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(228, 220, 220)' fill='url(#grad_38)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(234, 220, 220)' fill='url(#grad_39)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(240, 220, 220)' fill='url(#grad_40)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(246, 220, 220)' fill='url(#grad_41)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(252, 220, 220)' fill='url(#grad_42)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(258, 220, 220)' fill='url(#grad_43)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(264, 220, 220)' fill='url(#grad_44)' opacity='0.6' />
+    <path d='M 220 6 l 6 4 v 14 l -6 6 l -6 -6 v -14 z M 220 9 l 3 1 v 10 l -3 4 l -3 -4 v -10 z' transform='rotate(270, 220, 220)' fill='url(#grad_45)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(276, 220, 220)' fill='url(#grad_46)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(282, 220, 220)' fill='url(#grad_47)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(288, 220, 220)' fill='url(#grad_48)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(294, 220, 220)' fill='url(#grad_49)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(300, 220, 220)' fill='url(#grad_50)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(306, 220, 220)' fill='url(#grad_51)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(312, 220, 220)' fill='url(#grad_52)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(318, 220, 220)' fill='url(#grad_53)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(324, 220, 220)' fill='url(#grad_54)' opacity='0.6' />
+    <path d='M 220 4 l 5 6 l -5 12 l -5 -12 z M 220 6 l 2.5 4 l -2.5 9 l -2.5 -9 z' transform='rotate(330, 220, 220)' fill='url(#grad_55)' fill-rule='evenodd' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(336, 220, 220)' fill='url(#grad_56)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(342, 220, 220)' fill='url(#grad_57)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(348, 220, 220)' fill='url(#grad_58)' opacity='0.6' />
+    <path d='M 220 6 l 2.5 4 l -2.5 8 l -2.5 -8 z' transform='rotate(354, 220, 220)' fill='url(#grad_59)' opacity='0.6' />
   </g>
 </svg>
