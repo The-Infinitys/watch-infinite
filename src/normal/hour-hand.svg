@@ -15,10 +15,10 @@
     <defs id="defs1">
         <linearGradient id="prismGradient" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#ff0000" />
-            <stop offset="25%" stop-color="#ffff00" />
-            <stop offset="45%" stop-color="#00ff00" />
-            <stop offset="55%" stop-color="#00ffff" />
-            <stop offset="65%" stop-color="#0000ff" />
+            <stop offset="20%" stop-color="#ffff00" />
+            <stop offset="40%" stop-color="#00ff00" />
+            <stop offset="60%" stop-color="#00ffff" />
+            <stop offset="80%" stop-color="#0000ff" />
             <stop offset="100%" stop-color="#ff00ff" />
         </linearGradient>
         <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
