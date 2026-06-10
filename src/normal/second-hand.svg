@@ -1,16 +1,15 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg"
-    viewBox="0 0 400 200">
+    viewBox="0 0 50 450">
     <path id="second-hand" d="
-        M 400 100
-        l -25 -2.5
-        l -340 -2.5
-        l -5 5
-        l 5 5
-        l 340 -2.5
-        l 25 -2.5
-        z"
+        M 25,5
+  l -1.47,14.67
+  l -1.47,199.47
+  l 2.94,2.94
+  l 2.94,-2.94
+  l -1.47,-199.47
+  l -1.47,-14.67 z"
         fill="#ff0000"
         fill-rule="evenodd" />
 </svg>
