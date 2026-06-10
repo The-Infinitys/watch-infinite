@@ -2,14 +2,52 @@
     xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg"
     viewBox="0 0 50 450">
+
+    <defs id="defs1">
+        <linearGradient id="prismGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ff0000" />
+            <stop offset="20%" stop-color="#ffff00" />
+            <stop offset="40%" stop-color="#00ff00" />
+            <stop offset="60%" stop-color="#00ffff" />
+            <stop offset="80%" stop-color="#0000ff" />
+            <stop offset="100%" stop-color="#ff00ff" />
+        </linearGradient>
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+            <!-- ① 芯を作るための細く濃い光 -->
+            <feGaussianBlur stdDeviation="1" result="blur1" />
+            <!-- ② 周囲に広がる鮮やかな光 -->
+            <feGaussianBlur stdDeviation="3" result="blur2" />
+
+            <!-- 光を何重にもブレンドして密度（くっきり感）を爆上げする -->
+            <feMerge>
+                <feMergeNode in="blur2" />
+                <feMergeNode in="blur1" />
+                <feMergeNode in="blur1" />
+                <!-- 2回重ねて濃くする -->
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+    </defs>
+    <path id="second-hand-glow" d="
+        M 25,5
+  l -1.5,15
+  l -1.5,210
+  l 3,2.94
+  l 3,-2.94
+  l -1.5,-210
+  l -1.5,-15 z"
+        fill="url(#prismGradient)"
+        filter="url(#glow)"
+        fill-rule="evenodd" />
+
     <path id="second-hand" d="
         M 25,5
-  l -1.47,14.67
-  l -1.47,199.47
-  l 2.94,2.94
-  l 2.94,-2.94
-  l -1.47,-199.47
-  l -1.47,-14.67 z"
-        fill="#ff0000"
+  l -1.5,15
+  l -1.5,210
+  l 3,2.94
+  l 3,-2.94
+  l -1.5,-210
+  l -1.5,-15 z"
+        fill="#fff"
         fill-rule="evenodd" />
 </svg>
